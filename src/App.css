@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+/*this is the use of the css*/
+.suchana{
+	color:aquamarine;
+}
+.pritam{
+	color:lawngreen;
+}
+.prisumsa{
+	color:olive;
+}
+#nepal{
+	color:crimson;
+	font-size:20px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
